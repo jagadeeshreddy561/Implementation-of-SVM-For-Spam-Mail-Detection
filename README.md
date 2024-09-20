@@ -28,7 +28,7 @@ End the Program.
 
 ## Program:
 Program to implement the SVM For Spam Mail Detection..
-## Developed by:Jagadeeshreddy 
+## Developed by: Mallu Jagadeesh Reddy
 ## RegisterNumber: 212222240059 
 
 ```python
